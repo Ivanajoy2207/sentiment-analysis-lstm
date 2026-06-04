@@ -1,6 +1,5 @@
-streamlit==1.36.0
-tensorflow==2.16.1
-scikit-learn==1.5.1
-pandas==2.2.2
-numpy==1.26.4
-h5py==3.11.0
+streamlit
+pandas
+numpy
+scikit-learn
+tensorflow-cpu
